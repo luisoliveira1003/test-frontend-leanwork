@@ -45,8 +45,8 @@ $ yarn dev
 
 ### 🔗 Link para o projeto online
 
-* [LeanWork - Cadastro](https://psychometrika-test-71jmwppqo-luisoliveira1003.vercel.app/)
-* [LeanWork - Listagem](https://psychometrika-test-71jmwppqo-luisoliveira1003.vercel.app/dashboard)
+* [LeanWork - Cadastro](https://test-frontend-leanwork.vercel.app/)
+* [LeanWork - Listagem](https://test-frontend-leanwork.vercel.app/list)
 
 &nbsp;
 
