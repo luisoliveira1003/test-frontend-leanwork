@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Test LeanWork Group 🖤🚀
 
-## Getting Started
+## 📚 Informações sobre o projeto
 
-First, run the development server:
+* Esse aplicativo foi desenvolvido para o Teste da LeanWork Group. É possível cadastrar, listar, alterar e deletar pessoas. São duas páginas, a principal, no qual é possível cadastrar uma pessoa e a segunda, que fica a lista das pessoas cadastradas, podendo então, alterar e deletar.
 
-```bash
-npm run dev
-# or
-yarn dev
+&nbsp;
+
+## 💻 O que tem no projeto?
+
+* Design utilizando Styled Components e React Bootstrap.
+* Persistência de dados no localStorage.
+
+&nbsp;
+
+## 🛠️ Tecnologias/Ferramentas ultilizadas
+
+* [React](https://pt-br.reactjs.org/)
+* [Next.js](https://nextjs.org/)
+* [Styled Components](https://styled-components.com/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+
+
+&nbsp;
+
+## ⚙️ Instalação
+```
+# Abra um terminal e copie este repositório com o comando
+$ git clone https://github.com/luisoliveira1003/test-frontend-leanwork.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```
+# Acesse a pasta da aplicação
+$ cd test-frontend-leanwork
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Instale as dependências
+$ yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Inicie a aplicação
+$ yarn dev
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
 
-## Learn More
+&nbsp;
 
-To learn more about Next.js, take a look at the following resources:
+### 🔗 Link para o projeto online
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* [LeanWork - Cadastro](https://psychometrika-test-71jmwppqo-luisoliveira1003.vercel.app/)
+* [LeanWork - Listagem](https://psychometrika-test-71jmwppqo-luisoliveira1003.vercel.app/dashboard)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+&nbsp;
 
-## Deploy on Vercel
+## 📝 Licença
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo de [LICENÇA](https://github.com/luisoliveira1003/test-frontend-leanwork/blob/main/LICENSE) para detalhes.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+---
+
+<p align="center">Feito com 💜 por Luis Oliveira</p>
